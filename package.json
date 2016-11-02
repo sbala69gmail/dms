@@ -1,5 +1,5 @@
 {
-  "name": "krystal",
+  "name": "dms",
   "version": "1.0.0",
   "description": "data management system",
   "main": "gulffile.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sbala69gmail/krystal.git"
+    "url": "git+https://github.com/sbala69gmail/dms.git"
   },
   "keywords": [
     "data",
@@ -18,7 +18,7 @@
   "author": "balasubramani samiyappan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sbala69gmail/krystal/issues"
+    "url": "https://github.com/sbala69gmail/dms/issues"
   },
-  "homepage": "https://github.com/sbala69gmail/krystal#readme"
+  "homepage": "https://github.com/sbala69gmail/dms#readme"
 }

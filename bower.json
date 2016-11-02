@@ -1,5 +1,5 @@
 {
-  "name": "krystal",
+  "name": "dms",
   "description": "data management system",
   "main": "gulffile.js",
   "authors": [
@@ -11,7 +11,7 @@
     "management",
     "system"
   ],
-  "homepage": "https://github.com/sbala69gmail/krystal",
+  "homepage": "https://github.com/sbala69gmail/dms",
   "private": true,
   "ignore": [
     "**/.*",
