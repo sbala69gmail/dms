@@ -1,0 +1,23 @@
+{
+  "name": "krystal",
+  "description": "data management system",
+  "main": "gulffile.js",
+  "authors": [
+    "balasubramani samiyappan"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "data",
+    "management",
+    "system"
+  ],
+  "homepage": "https://github.com/sbala69gmail/krystal",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "krystal",
+  "version": "1.0.0",
+  "description": "data management system",
+  "main": "gulffile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbala69gmail/krystal.git"
+  },
+  "keywords": [
+    "data",
+    "management",
+    "system"
+  ],
+  "author": "balasubramani samiyappan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbala69gmail/krystal/issues"
+  },
+  "homepage": "https://github.com/sbala69gmail/krystal#readme"
+}
